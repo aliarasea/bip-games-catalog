@@ -1,0 +1,8 @@
+.app-link {
+	color: var(--color-brand);
+	border: 1px solid var(--color-border);
+
+	&:hover {
+		color: var(--color-brand-hover);
+	}
+}
