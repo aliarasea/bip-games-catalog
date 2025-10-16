@@ -36,10 +36,10 @@ function App() {
 							Hangman
 						</Link>
 						<Link
-							to="https://bip-dortlu.netlify.app/"
+							to="https://bip-xox-game.netlify.app/"
 							className="block w-full rounded-lg px-4 py-2 text-center text-sm font-semibold app-link focus:outline-none focus:ring-2 focus:ring-offset-2"
 						>
-							Dörtlu
+							XOX
 						</Link>
 					</nav>
 				</div>
