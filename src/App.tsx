@@ -41,6 +41,12 @@ function App() {
 						>
 							XOX
 						</Link>
+						<Link
+							to="https://bip-zip.netlify.app/"
+							className="block w-full rounded-lg px-4 py-2 text-center text-sm font-semibold app-link focus:outline-none focus:ring-2 focus:ring-offset-2"
+						>
+							Zip
+						</Link>
 					</nav>
 				</div>
 			</div>
