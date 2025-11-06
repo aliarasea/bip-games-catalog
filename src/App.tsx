@@ -47,11 +47,17 @@ function App() {
 						>
 							Zip
 						</Link>
-	<Link
-							to="https://magnificent-pony-6bee62.netlify.app/"
+						<Link
+							to="https://bip-pinpoint.netlify.app/"
 							className="block w-full rounded-lg px-4 py-2 text-center text-sm font-semibold app-link focus:outline-none focus:ring-2 focus:ring-offset-2"
 						>
 							Pinpoint
+						</Link>
+						<Link
+							to="https://bip-crossclimb.netlify.app/"
+							className="block w-full rounded-lg px-4 py-2 text-center text-sm font-semibold app-link focus:outline-none focus:ring-2 focus:ring-offset-2"
+						>
+							Cross Climb
 						</Link>
 					</nav>
 				</div>
